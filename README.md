@@ -53,7 +53,7 @@ We open-source model checkpoints, training data, and the full inference pipeline
   <tr>
     <th class="tg-header"></th>
     <th class="tg-data">HMMT 2025</th>
-    <th class="tg-data">LiveCodeBench</th>
+    <th class="tg-data">LiveCodeBench (2408-2505)</th>
     <th class="tg-data">HLE<sub>text</sub></th>
     <th class="tg-data">MultiChallenge</th>
   </tr>
