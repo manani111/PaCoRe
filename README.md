@@ -154,11 +154,14 @@ First, install this package:
 ```bash
 pip install -e . 
 ```
-Then, we assume you use vllm serve the model in your localhost with [PaCoRe-8B](https://huggingface.co/stepfun-ai/PaCoRe-8B) model. 
+
+Then, we assume you use vllm serve the model in your localhost with [PaCoRe-8B](https://huggingface.co/stepfun-ai/PaCoRe-8B) model.   
+
 Next, you can run our example inference code with PaCoRe-low inference setting:
 ```
 python playground/example_batch_inference_pacore_low_1210.py
 ```
+
 And then you can see dumped results in `outputs/example_batch_inference_pacore_low_1210/results.jsonl`!
 
 
